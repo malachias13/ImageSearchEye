@@ -1,5 +1,7 @@
 # DesktopImage
 
+#2 Getting and seting up API key for program
+
  1.	Create a Azure account.
 https://www.microsoft.com/en-us/bing/apis/bing-image-search-api
 
@@ -14,6 +16,7 @@ https://www.microsoft.com/en-us/bing/apis/bing-image-search-api
 5. Type "**Edit environment variables for your account**" in your windows search bar and press enter.
 
 6. Create a new environment variable. Name the variable name **"BING_SEARCH_V7_SUBSCRIPTION_KEY"** and input your key 1 code in the variable value text box.
+
 ![Step 2](https://user-images.githubusercontent.com/69220988/207701752-3d7b772f-d2ed-48c5-a042-db3b3eb05ff9.png)
 
 7. Restart your computer.
