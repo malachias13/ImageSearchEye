@@ -1,8 +1,9 @@
 # Image Search Eye
 
-## Video displaying the program
-https://www.youtube.com/watch?v=V_kz5Ti9iQ4
+### Video displaying the program
 
+https://www.youtube.com/watch?v=V_kz5Ti9iQ4
+###
 
 
 ## Getting and seting up API key for program
