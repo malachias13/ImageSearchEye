@@ -1,6 +1,6 @@
 # DesktopImage
 
-#2 Getting and seting up API key for program
+## Getting and seting up API key for program
 
  1.	Create a Azure account.
 https://www.microsoft.com/en-us/bing/apis/bing-image-search-api
